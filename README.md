@@ -20,10 +20,8 @@ Here are some ideas to get you started:
 ### :man_technologist: About Me :
 I am a Backend Developer from Russia.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🧠: I am learning and using FastApi, Django and Flask and everything related to them.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I improve my programming skills.
 
 - 📫 How to contact me [leokazantsev19@mail.ru](mailto:leokazantsev19@mail.ru)
