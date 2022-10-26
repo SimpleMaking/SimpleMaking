@@ -1,17 +1,3 @@
-<!--
-**SimpleMaking/SimpleMaking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div id="header" align="center">
   <h1>Hi 👋 I am Leo Kazantsev</h1>
   <img src="https://media.giphy.com/media/0lfqHNZwWM1hOvJ9CX/giphy.gif" width="100"/>
@@ -36,6 +22,12 @@ I am a Backend Developer from Russia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### 🔥 My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimpleMaking&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
