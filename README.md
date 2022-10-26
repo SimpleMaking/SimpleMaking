@@ -1,5 +1,3 @@
-### Hi 👋 I am Leo Kazantsev
-
 <!--
 **SimpleMaking/SimpleMaking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +16,5 @@ Here are some ideas to get you started:
   <h1>Hi 👋 I am Leo Kazantsev</h1>
   <img src="https://media.giphy.com/media/0lfqHNZwWM1hOvJ9CX/giphy.gif" width="100"/>
 </div>
+
+### :woman_technologist: About Me :
