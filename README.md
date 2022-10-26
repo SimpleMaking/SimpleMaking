@@ -17,4 +17,4 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/0lfqHNZwWM1hOvJ9CX/giphy.gif" width="100"/>
 </div>
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
